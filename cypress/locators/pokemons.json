@@ -1,0 +1,17 @@
+{
+    "email": ":nth-child(1) > .auth__input",
+    "password": "#password",
+    "auth_button": ".auth__button",
+    "shop_button": ".header__btns > :nth-child(4)",
+    "avatar": ".available > .shop__button",
+    "card_number": ".pay__payform-v2 > :nth-child(2) > .pay_base-input-v2",
+    "card_actual": ":nth-child(1) > .pay_base-input-v2",
+    "card_cvv": ".pay-inputs-box > :nth-child(2) > .pay_base-input-v2",
+    "card_name": ".pay__input-box-last-of > .pay_base-input-v2",
+    "pay_button": ".pay-btn",
+    "push_code": "#cardnumber",
+    "payment_button": ".payment__submit-button",
+    "success_message": ".payment__font-for-success",
+    "back_to_pokemons_button": ".payment__adv"
+}
+

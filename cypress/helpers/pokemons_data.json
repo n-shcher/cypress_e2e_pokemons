@@ -1,0 +1,10 @@
+{
+	"login":"USER_LOGIN",
+	"password":"USER_PASSWORD",
+	"card_number": "4111 1111 1111 1111",
+    "card_name": "Somebody",
+    "card_cvv": "125",
+    "card_actual": "05/29",
+    "secure_code": "56456",
+	"success_message": "Покупка прошла успешно"
+}
